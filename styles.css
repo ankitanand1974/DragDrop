@@ -1,0 +1,15 @@
+.container {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.item {
+    background-color: lightblue;
+    padding: 5px;
+    margin: 5px;
+    cursor: move;
+}
